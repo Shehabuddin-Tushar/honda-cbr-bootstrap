@@ -4,6 +4,7 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 
+/*header section start*/
 .bg-details{
 
     background-color: #264653;
@@ -47,6 +48,8 @@ body{
     line-height: 24px;
     
 }
+/*header section end*/
+
 
 /*fetures section start*/
 
