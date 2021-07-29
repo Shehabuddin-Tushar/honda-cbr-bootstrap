@@ -1,0 +1,177 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.bg-details{
+
+    background-color: #264653;
+    padding:100px 0px
+}
+
+.btn-purchase{
+
+    background-color:#E76F51;
+    color:#fff;
+    padding: 10px 46px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    border: none;
+}
+
+.header-banner h1{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 72px;
+}
+
+.header-banner .top-p{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 22px;
+    
+}
+
+.header-banner .bottom-p{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px;
+    
+}
+
+/*fetures section start*/
+
+.fetures-heading h1{
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 72px;
+}
+
+.fetures-heading p{
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    color: #E76F51;
+
+}
+
+.grayscale{
+
+    filter: grayscale(100%);
+}
+
+/*happy clients start*/
+
+.section-title{
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 72px;
+}
+
+.client-details img{
+    height: 149px;
+    width: 149px;
+    border-radius: 100%;
+    
+}
+.client-details p{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    color: #6C6C6C;
+}
+
+.client-details .ratings i{
+
+     color: #E77C40;
+     width: 22px;
+     height: 22px;
+}
+
+.client-details h3,h4{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing:1px;
+    color: #23A6F0;
+}
+
+.client-details h4{
+    color:#252B42;
+}
+
+/*freuently part start*/
+
+.accordion-button{
+    padding: 30px;
+    border-top:1px solid rgb(105, 170, 214);
+    border-radius: 5px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 28px;
+    color:#383838;
+    
+    
+   
+}
+
+.accordion-item{
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border:1px solid rgb(105, 170, 214);
+
+}
+
+.accordion-button:not(.collapsed) {
+    color: #000;
+    background-color: #fff;
+    box-shadow: inset 0 -1px 0 rgb(0 0 0 / 13%);
+}
+
+.accordion-body{
+    color:#7E848C;
+}
+
+/*promote car section start*/
+.promote-car{
+    background-color: #f2f2f2;
+}
+.honda-car img{
+    
+    transition: 2s;
+}
+.honda-car img:hover{
+
+    transform: scale(1.5);
+
+}
+
+/*social-contact-section*/
+
+.social-icon a{
+    font-size: 35px;
+    margin-right: 10px;
+}
